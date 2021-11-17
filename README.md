@@ -1,0 +1,1 @@
+Well, I already know many of the things taught here, but i was looking for a course that had projects to make and that way get a better feel and master everything i've learned.
