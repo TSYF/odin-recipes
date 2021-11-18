@@ -1,3 +1,53 @@
 body {
     background: rgb(66, 66, 66);
+    color: darkgrey;
+}
+
+.sec {
+    border: solid 3px rgb(182, 18, 18);
+    border-radius: 5px;
+    width: fit-content;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+h2 {
+    font-size: 30px;
+    text-decoration: underline black 2px;
+    margin-bottom: 0;
+}
+
+.sec ul,
+.sec ol {
+    margin-top: 5px;
+}
+
+.sec li {
+    font-size: 25px;
+}
+
+
+.foodimg {
+    width: 25em;
+    display: inline-block;
+    border: solid 2px black;
+    border-radius: 20px;
+}
+
+.sec p {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 25rem;
+    font-size: 18px;
+    border-bottom: solid 2px black;
+}
+
+.button {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    width: 30px;
+    background-color: darkgrey;
+    border: solid 2px rgb(182, 18, 18);
+    border-radius: 25px;
 }
